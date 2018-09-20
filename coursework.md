@@ -40,13 +40,20 @@ biological:
     - Fundamentals of Biotechnology
     - Biology of Microorganisms
     - Microbiology and Environmental Biotechnology
-
 ---
 
 
 <div id="main" class="alt">
     <section id="one">
         <div class="inner">
+            <div class="row">
+                <div class="8u -2u 12u$(small)">
+                    <header class="major">
+                        <h3>Courses at Pontifical Catholic University of Chile</h3>
+                        <p>2014 - Now</p>
+                    </header>
+                </div>
+            </div>
             <div class="i-am-centeredow">
                 <div class="row">
                     <div class="5u -2u 12u$(small)">

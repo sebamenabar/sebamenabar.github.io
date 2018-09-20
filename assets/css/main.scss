@@ -1,4 +1,5 @@
 ---
+show-tile: false
 ---
 @import 'libs/vars';
 @import 'libs/functions';
@@ -81,4 +82,11 @@
 
 small {
 	font-size: 85%;
+}
+
+#banner.major {
+	padding: 0;
+	height: 22em;
+	min-height: 22em;
+	max-height: 22em;
 }

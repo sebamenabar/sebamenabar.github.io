@@ -15,7 +15,7 @@ phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 10
 
 # social settings
 500px_url:
@@ -28,6 +28,7 @@ linkedin_url: https://www.linkedin.com/in/sebastian-amenabar/
 pinterest_url:
 slack_url:
 twitter_url: 
+medium_url: https://medium.com/@sebamenabar
 
 # build settings
 markdown: kramdown
