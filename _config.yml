@@ -1,17 +1,17 @@
 # site settings
 title: Sebastian Amenabar
-subtitle: 
-email: samenabar@uc.cl
+subtitle:
+email: amenabars@gmail.com
 description: In this page I'll try to take you through my works and some<br />views of Chile
 baseurl:  # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Sebastian Amenabar
-street_address: 
+street_address:
 city: Santiago
-state: 
-zip_code: 
+state:
+zip_code:
 country: Chile
-phone: 
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -21,13 +21,13 @@ tiles-count: 10
 500px_url:
 facebook_url:
 github_url: https://github.com/sebamenabar
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
+gitlab_url:
+googleplus_url:
+instagram_url:
 linkedin_url: https://www.linkedin.com/in/sebastian-amenabar/
 pinterest_url:
 slack_url:
-twitter_url: 
+twitter_url:
 medium_url: https://medium.com/@sebamenabar
 
 # build settings
