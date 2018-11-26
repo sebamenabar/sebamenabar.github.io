@@ -2,8 +2,8 @@
 layout: page
 title: Contact
 description: Contact Me
-image: 
-nav-menu: true
+image:
+nav-menu: false
 show-tile: false
 ---
 

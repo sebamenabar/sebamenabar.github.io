@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: "Hi"
-description: 
+landing-title: "Welcome"
+description:
 image: null
 author: Sebastian Amenabar
 show-tile: false

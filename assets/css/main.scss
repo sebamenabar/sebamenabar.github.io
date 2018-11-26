@@ -90,3 +90,17 @@ small {
 	min-height: 22em;
 	max-height: 22em;
 }
+
+@media (min-width: 768px) {
+	#banner.major {
+		min-height: 60vh;
+		max-height: 60vh;
+		height: 60vh;
+	}
+
+	.tiles article {
+		min-height: 40vh;
+		max-height: 40vh;
+		height: 40vh;
+	}
+}
